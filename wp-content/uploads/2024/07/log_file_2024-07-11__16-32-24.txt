@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: Photography Elementor were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://107.22.10.217
+Data file = /var/www/wordpress/wp-content/uploads/2024/07/demo-content-import-file_2024-07-11__16-32-24.xml
+Widget file = /var/www/wordpress/wp-content/uploads/2024/07/demo-widgets-import-file_2024-07-11__16-32-24.json
+Customizer file = /var/www/wordpress/wp-content/uploads/2024/07/demo-customizer-import-file_2024-07-11__16-32-24.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Footer Widgets : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
